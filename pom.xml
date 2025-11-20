@@ -1,0 +1,20 @@
+pom.xml is the Project Object Model file, which is the core of a Maven project. 
+It contains:
+1. Project metadata: groupId, artifactId, version
+2.Dependencies: project dependencies and their versions Build configuration: build settings and plugins
+3.pom.xml is used by Maven to manage the project, resolve dependencies, and execute build goals.
+
+<!--https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+ <groupId>org.seleniumhq.selenium</groupId>
+ <artifactId>selenium-java</artifactId>
+ <version>4.36.0</version>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.testng/testng --
+>
+<dependency>
+ <groupId>org.testng</groupId>
+ <artifactId>testng</artifactId>
+ <version>7.11.0</version>
+ <scope>test</scope>
+</dependency>
