@@ -1,0 +1,21 @@
+A Java project is a collection of Java source files, libraries, and configuration files used to develop a Java application.
+
+Key Components- Java Source Files: 
+1.java files containing Java code
+2. Libraries: pre-written Java classes and JAR files used in the project
+-3.Configuration Files: files like MANIFEST.MF or build.xml for project configuration
+
+Types of Java Projects-  
+1.Java Application: standalone Java application
+2. Java Library: reusable Java code packaged as a JAR file
+3. Java Web Application: Java application deployed on a web server
+
+Java Project Structure- src/: Java source files
+1. lib/: libraries and JAR files
+2. bin/: compiled class files
+3.build.xml: Ant build file (optional)
+
+Creating a Java Project 
+1. Create a new directory for the project
+2. Add Java source files and libraries
+3. Compile and run the project using javac and java commands
