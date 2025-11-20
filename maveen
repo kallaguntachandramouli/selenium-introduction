@@ -1,0 +1,13 @@
+Maven is a build automation tool used primarily for Java projects. 
+It manages project dependencies, builds, and deployments. 
+Maven simplifies the build process, making it easier to manage complex projects.
+
+Examples of Maven's use:- Dependency Management: Maven resolves and manages project dependencies, ensuring the correct versions are used.
+1.Build Automation: Maven automates build, test, and deployment processes, saving time and effort.
+2. Project Structure: Maven provides a standardized project structure, making it easier to organize code.
+
+ examples of Maven's use:
+1.Creating a new Maven project: mvn archetype:generate
+2. Compiling a Maven project: mvn compile
+3. Running tests in a Maven project: mvn test
+4. Packaging a Maven project: mvn package
