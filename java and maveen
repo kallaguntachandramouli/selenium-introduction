@@ -19,3 +19,25 @@ Creating a Java Project
 1. Create a new directory for the project
 2. Add Java source files and libraries
 3. Compile and run the project using javac and java commands
+
+2. A Maven project is a Java project managed by Maven, a build automation tool.
+
+Key Components- 
+1.pom.xml: Project Object Model file, core of the Maven project
+2. Java Source Files: .java files containing Java code
+3. Dependencies: libraries and JAR files managed by Maven
+
+Maven Project Structure- src/main/java/: Java source files
+1.src/test/java/: test Java source files
+2.src/main/resources/: resource files
+3. pom.xml: Maven project configuration file
+
+Creating a Maven Project
+1. Create a new directory for the project
+2. Run mvn archetype:generate to create a new Maven project
+3. Configure pom.xml for project dependencies and settings
+
+Maven Commands- mvn compile: compile project
+1.mvn test: run tests
+2.mvn package: package project into JAR/WAR
+3.mvn install: install project in local repository
