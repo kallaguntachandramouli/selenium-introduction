@@ -1,0 +1,6 @@
+PRINCIPLES OF SELENIUM:
+1.Test Automation: Selenium is used for automating web application testing, reducing manual effort.
+2. Multi-Browser Support: Selenium supports various browsers like Chrome, Firefox, Safari, and Edge.
+3. Multi-Language Support: Selenium supports languages like Java, Python, Ruby, and C#.
+4. Element Location: Selenium uses locators like ID, Name, XPath, and CSS to identify elements.
+5. Actions: Selenium performs actions like click, send keys, and navigate.
